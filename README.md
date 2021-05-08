@@ -14,8 +14,6 @@ WordCount(C语言)
 
 ## 拉取别人仓库的项目
 
-------
-
 1.fork本仓库
 
 ![图片](http://img.cdn.sugarat.top/mdImg/MTYyMDQ3NTUxOTM0MA==620475519340)
@@ -42,8 +40,6 @@ git clone https://github.com.cnpmjs.org/...
 
 ## 运行项目
 
-------
-
 1.win+r打开cmd
 
 2.进入项目所在的文件夹，以testA为例，运行可执行文件WordCount：
@@ -51,8 +47,6 @@ git clone https://github.com.cnpmjs.org/...
 ![image-20210508201808208](C:\Users\17256\AppData\Roaming\Typora\typora-user-images\image-20210508201808208.png)
 
 ## **下面才是这次实践需要自己做的**
-
-------
 
 ### 远程创建一个仓库WordCount(因实验给的是github所以我用Gitee演示)
 
