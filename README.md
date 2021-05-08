@@ -8,9 +8,7 @@ WordCount(C语言)
 
 ## 安装git、以及简单的使用
 
-[地址]: https://blog.csdn.net/weixin_44950987/article/details/102619708?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522162047385316780271560977%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&amp;request_id=162047385316780271560977&amp;biz_id=0&amp;utm_medium=distribute.pc_search_result.none-task-blog-2~all~top_positive~default-1-102619708.first_rank_v2_pc_rank_v29&amp;utm_term=%E5%AE%89%E8%A3%85git&amp;spm=1018.2226.3001.4187
-
-
+[点这儿]: www.baidu.com
 
 ## 拉取别人仓库的项目
 
@@ -24,7 +22,9 @@ WordCount(C语言)
 git clone 这儿跟的是你fork过后仓库的地址
 ```
 
-一般Code下的地址是是一个所示https://github.com/...所以我们应该这样写
+一般Code下的地址是是一个所示https://github.com/...
+
+所以我们应该这样写
 
 ```
 git clone https://github.com/...
