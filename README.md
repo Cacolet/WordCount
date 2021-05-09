@@ -97,8 +97,10 @@ git push  # 之后提交
 
 ![图片](http://img.cdn.sugarat.top/mdImg/MTYyMDQ3ODQ3ODA2Nw==620478478067)
 
-到这儿就会喊你输账号密码，好久之前注册的搞忘密码了，手机这会儿也没电了。明天更新一下
+到这儿就会喊你输账号密码，就是你码云注册的账号密码
 
 ![图片](http://img.cdn.sugarat.top/mdImg/MTYyMDQ4MDAwNDAwNw==620480004007)
 
-这里就基本上完成了。
+![图片](http://img.cdn.sugarat.top/mdImg/MTYyMDUyNDMwMTYyMA==620524301620)这里就基本上完成了。最后看一下远程的仓库吧
+
+![图片](http://img.cdn.sugarat.top/mdImg/MTYyMDUyNDM0MDIzOA==620524340238)
